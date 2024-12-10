@@ -78,14 +78,9 @@ console.log("Valor convertido: " + valorConvertido + " unidades da moeda final."
 ```
 ```let temperaturaFahrenheit = (temperaturaCelsius * 9/5) + 32;
 ```
-```console.log(temperaturaCelsius + "°C é equivalente a " + temperaturaFahrenheit + "°F.");
-```
-```let peso = 70;      // Substitua com o peso em kg
+console.log(temperaturaCelsius + "°C é equivalente a " + temperaturaFahrenheit + "°F.");
+
+let peso = 70;      // Substitua com o peso em kg
 let altura = 1.75;  // Substitua com a altura em metros
-```
-```let imc = peso / (altura * altura);
-```
-```console.log("O seu IMC é " + imc.toFixed(2) + ".");
-```
 
 
